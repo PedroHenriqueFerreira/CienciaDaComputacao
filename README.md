@@ -1,4 +1,4 @@
-# Ciência da Computação
+## Ciência da Computação
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=GREEN&style=for-the-badge)
 
 ## Descrição do repositório
