@@ -6,3 +6,4 @@ Este repositório tem como objetivo auxiliar no aprendizado de alunos de **ciên
 
 ## Tecnologias utilizadas
 - `Python 3`
+- `C`
