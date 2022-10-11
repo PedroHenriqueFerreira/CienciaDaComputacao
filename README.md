@@ -4,6 +4,6 @@
 ## Descrição do repositório
 Este repositório tem como objetivo auxiliar no aprendizado de alunos de **ciência da computação** e **engenharia de software** com listas de exercícios das diversas cadeiras de programação de ambos os cursos. 
 
-## Tecnologias utilizadas
+## Linguagens utilizadas
 - `Python 3`
 - `C`
