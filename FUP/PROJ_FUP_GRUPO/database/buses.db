@@ -1,3 +1,0 @@
-{'CNPJ': '22.222.222/2222-22', 'company': 'São Benedito', 'origin': 'Morada Nova', 'destiny': 'Russas', 'start': '07:00', 'day': '14/07/2022', 'duration': '01:00', 'price': 'R$ 16,00'}
-{'CNPJ': '11.111.111/1111-11', 'company': 'Guanabara', 'origin': 'Morada Nova', 'destiny': 'Russas', 'start': '06:50', 'day': '06/10/2022', 'duration': '01:00', 'price': 'R$ 3,00'}
-{'CNPJ': '11.111.111/1111-11', 'company': 'Guanabara', 'origin': 'Russas', 'destiny': 'Aracati', 'start': '05:00', 'day': '23/10/2022', 'duration': '01:00', 'price': 'R$ 100,00'}
