@@ -1,0 +1,9 @@
+Relatório de clientes
+A loja MY STORE possui 4 clientes que estão listados abaixo:
+
+1. Pedro Henrique
+2. Armando Vinicius
+3. Vitor Freitas
+4. Joao
+
+Russas, 11 de julho de 2022
