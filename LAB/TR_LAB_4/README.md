@@ -8,7 +8,7 @@ Este repositório contém o trabalho 4 da disciplina de laborátorio de programa
 Primeiramente é necessário ter o `gcc` e o `git` em sua máquina.
 
 ## Download
-Cole o seguinte comando no terminal para obter o código do projeto.
+Cole o seguinte comando no terminal para obter o código do projeto ou [clique aqui](https://github.com/PedroHenriqueFerreira/Trabalho4Lab/archive/refs/heads/main.zip).
 ```
 $ git clone https://github.com/PedroHenriqueFerreira/Trabalho4Lab.git 
 ```
