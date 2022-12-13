@@ -20,7 +20,7 @@ $ gcc -c TR4_535770.c
 ```
 
 ## Compilação
-Cole o seguinte comando no terminal para gerar o compilado do projeto.
+Cole o seguinte comando no terminal para gerar o executável do projeto.
 ```
 $ gcc ./TR4_535770.o ./main.c -o main
 ``` 

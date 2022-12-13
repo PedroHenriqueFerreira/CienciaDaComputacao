@@ -14,7 +14,7 @@ $ git clone https://github.com/PedroHenriqueFerreira/Trabalho3Lab.git
 ```
 
 ## Compilação
-Cole o seguinte comando no terminal para gerar o compilado do projeto.
+Cole o seguinte comando no terminal para gerar o executável do projeto.
 ```
 $ gcc TR3_535770.c -o TR3_535770
 ```
