@@ -26,7 +26,7 @@ $ gcc ./TR4_535770.o ./main.c -o main
 ``` 
 
 ## Execução
-Cole um dos seguintes comandos para rodar o projeto:
+Cole um dos seguintes comandos no terminal para rodar o projeto:
 
 Linux:
 ```

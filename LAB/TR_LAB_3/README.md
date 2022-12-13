@@ -20,7 +20,7 @@ $ gcc TR3_535770.c -o TR3_535770
 ```
 
 ## Execução
-Cole um dos seguintes comandos para rodar o projeto:
+Cole um dos seguintes comandos no terminal para rodar o projeto:
 
 Linux:
 ```
