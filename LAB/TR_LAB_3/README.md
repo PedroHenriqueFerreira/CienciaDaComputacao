@@ -5,19 +5,23 @@
 Este repositório contém o trabalho 3 da disciplina de laborátorio de programação, onde o usuário digita números inteiros entre 0 e 5000. Ao digitar o número -1, o programa mostra todos os números interiormente digitados sem repetições.
 
 ## Primeiros passos
-Primeiramente é necessário ter o `gcc` em sua máquina.
+Primeiramente é necessário ter o `gcc` e o `git` em sua máquina.
 
 ## Download
+Cole o seguinte comando no terminal para obter o código do projeto.
 ```
 $ git clone https://github.com/PedroHenriqueFerreira/Trabalho3Lab.git 
 ```
 
 ## Compilação
+Cole o seguinte comando no terminal para gerar o compilado do projeto.
 ```
 $ gcc TR3_535770.c -o TR3_535770
 ```
 
 ## Execução
+Cole um dos seguintes comandos para rodar o projeto:
+
 Linux:
 ```
 $ ./TR3_535770
